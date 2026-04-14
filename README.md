@@ -2,6 +2,7 @@
 
 Aplicación backend desarrollada con Spring y Hibernate que permite la gestión de datos mediante acceso a base de datos usando ORM.
 
+
 ## 🚀 Funcionalidades
 
 * 📦 Persistencia de datos con Hibernate
